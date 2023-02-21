@@ -1,5 +1,6 @@
 package home3;
 
+//итеративный O(N) алгоритм возведения числа в степень
 public class AlgoForRaisingNumberToPower01 {
     public static void main(String[] args) {
         int a = 3;

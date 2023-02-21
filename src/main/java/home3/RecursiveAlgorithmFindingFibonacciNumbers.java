@@ -1,5 +1,6 @@
 package home3;
 
+//рекурсивный O(2^N) алгоритм поиска чисел Фибоначчи
 public class RecursiveAlgorithmFindingFibonacciNumbers {
     public static void main(String[] args) {
         System.out.println(findFibonacci(6));

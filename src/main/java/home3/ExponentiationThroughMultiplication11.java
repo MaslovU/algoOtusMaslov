@@ -1,5 +1,6 @@
 package home3;
 
+//алгоритм возведения в степень через домножение O(N/2+LogN) = O(N)
 public class ExponentiationThroughMultiplication11 {
     public static void main(String[] args) {
         System.out.println(makeMultiplication(2, 8));

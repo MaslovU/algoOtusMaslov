@@ -6,6 +6,7 @@ import java.util.List;
 
 import static java.lang.System.out;
 
+//алгоритм "Решето Эратосфена" для быстрого поиска простых чисел O(N Log Log N)
 public class AlgoFindPrimeNumThroughEratosfen {
     public static void main(String[] args) {
         long time = System.currentTimeMillis();

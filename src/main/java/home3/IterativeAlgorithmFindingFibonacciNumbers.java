@@ -1,5 +1,6 @@
 package home3;
 
+//итеративный O(N) алгоритм поиска чисел Фибоначчи
 public class IterativeAlgorithmFindingFibonacciNumbers {
     public static void main(String[] args) {
         System.out.println(findFibbonacci(6));

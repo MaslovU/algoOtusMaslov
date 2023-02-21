@@ -2,6 +2,7 @@ package home3;
 
 import java.math.BigInteger;
 
+//алгоритм поиска чисел Фибоначчи O(LogN) через умножение матриц
 public class FibonacciNumbersThroughMatrixMultiplication {
     public static void main(String[] args) {
         System.out.println(Fibbonacci.getFibonacciNumber(6));

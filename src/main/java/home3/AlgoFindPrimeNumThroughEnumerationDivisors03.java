@@ -1,5 +1,6 @@
 package home3;
 
+//алгоритм поиска количества простых чисел через перебор делителей, O(N^2)
 public class AlgoFindPrimeNumThroughEnumerationDivisors03 {
     public static void main(String[] args) {
         System.out.println(getPrimeNumbers(100));
